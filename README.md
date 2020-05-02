@@ -21,7 +21,7 @@
 ![image](https://raw.githubusercontent.com/woodif/kbide_plugin_template/master/static/src_cpp.JPG)
 
 # ตัวอย่างการต่อวงจรร่วมกับบอร์ด KidBright
-![image](https://raw.githubusercontent.com/woodif/kbide_plugin_template/master/static/kidbright_ultrasonic.png)
+![image](https://github.com/woodif/kbide-ultrasonic-arduino/blob/master/static/Picture1.png)
 
 # ตัวอย่างการต่อบล็อกในโปรแกรม KB-IDE 
 บล็อกตั้งค่าขาใช้งาน จากตัวอย่าง 18 คือ ECHO และ 19 คือ TRIG
