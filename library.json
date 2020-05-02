@@ -7,7 +7,7 @@
   "author": "wooddys",
   "email": "",
   "url": "http://www.kbide.org",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "board" : "",
   "platform": ["arduino-avr"],
   "license": "",
