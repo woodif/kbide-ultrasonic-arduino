@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-ultrasonic-plugin",
+  "title": "Ultrasonic",
+  "keywords": "ide, esp32, ultrasonic",
+  "description": "Ultrasonic plugin for KB-IDE",
+  "git": "https://github.com/bavensky/kbide-ultrasonic-plugin",
+  "author": "bavensky",
+  "email": "",
+  "url": "http://www.kbide.org",
+  "version": "1.0.1",
+  "board" : "",
+  "platform": ["arduino-avr"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
